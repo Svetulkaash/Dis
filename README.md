@@ -1,4 +1,4 @@
-# Домашнее задание к занятию "Кластеризация и балансировка нагрузки" - `Svetlana Ashurkova`
+# Домашнее задание к занятию "Disaster recovery и Keepalived" - `Svetlana Ashurkova`
 
 
 ### Инструкция по выполнению домашнего задания
@@ -42,8 +42,8 @@
 ```
 
 `При необходимости прикрепитe сюда скриншоты`
-![haproxy tcp cfg](https://github.com/Svetulkaash/haproxy/blob/main/img/Screenshot%20haproxy%20tcp%20conf.png)
-![haproxy tcp](https://github.com/Svetulkaash/haproxy/blob/main/img/screenshot%20haproxy%20tcp.png)
+![router cfg](https://github.com/Svetulkaash/dis/blob/main/img/Screenshot%20install%20router.png)
+![cisco packet tracer](https://github.com/Svetulkaash/dis/blob/main/img/my%20hsrp_active.pkt)
 
 
 ---
