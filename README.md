@@ -68,9 +68,12 @@
 ```
 
 `При необходимости прикрепитe сюда скриншоты`
-![haproxy http cfg](https://github.com/Svetulkaash/haproxy/blob/main/img/Screenshot%20haproxy%20http%20conf.png)
-![haproxy http](https://github.com/Svetulkaash/haproxy/blob/main/img/Screenshot%20haproxy%20http.png)
-![haproxy http without domain](https://github.com/Svetulkaash/haproxy/blob/main/img/Screenshot%20without%20domain.png)
+![ng1 keepalived cfg](https://github.com/Svetulkaash/dis/blob/main/img/Screenshot%20%20keepalived%20cfg%20ng1.png)
+![ng2 keepalived cfg](https://github.com/Svetulkaash/dis/blob/main/img/Screenshot%20%20keepalived%20cfg%20ng2.png)
+![ng1](https://github.com/Svetulkaash/dis/blob/main/img/Screenshot%20ng1.png)
+![ng2](https://github.com/Svetulkaash/dis/blob/main/img/Screenshot%20ng2.png)
+![switching](https://github.com/Svetulkaash/dis/blob/main/img/Screensot%20ng2%20final.png)
+
 
 ---
 
