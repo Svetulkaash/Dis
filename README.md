@@ -1,4 +1,4 @@
-# Домашнее задание к занятию "`Название занятия`" - `Фамилия и имя студента`
+# Домашнее задание к занятию "`Backup`" - `Svetlana Ashurkova`
 
 
 ### Инструкция по выполнению домашнего задания
@@ -42,7 +42,7 @@
 ```
 
 `При необходимости прикрепитe сюда скриншоты
-![Название скриншота 1](ссылка на скриншот 1)`
+![backup](https://github.com/Svetulkaash/backup9434/blob/main/img/Screenshot%20rsync.png)`
 
 
 ---
@@ -67,7 +67,8 @@
 ```
 
 `При необходимости прикрепитe сюда скриншоты
-![Название скриншота 2](ссылка на скриншот 2)`
+![bash](https://github.com/Svetulkaash/backup9434/blob/main/img/Screenshot%20bash%20script.png)
+![cron](https://github.com/Svetulkaash/backup9434/blob/main/img/Screenshot%20cron.png)`
 
 
 ---
