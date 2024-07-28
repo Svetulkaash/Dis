@@ -41,8 +41,8 @@
 ....
 ```
 
-`При необходимости прикрепитe сюда скриншоты
-![backup](https://github.com/Svetulkaash/backup9434/blob/main/img/Screenshot%20rsync.png)`
+`При необходимости прикрепитe сюда скриншоты`
+![backup](https://github.com/Svetulkaash/backup9434/blob/main/img/Screenshot%20rsync.png)
 
 
 ---
