@@ -1,4 +1,4 @@
-# Домашнее задание к занятию "`Backup`" - `Svetlana Ashurkova`
+# Домашнее задание к занятию "Кластеризация и балансировка нагрузки" - `Svetlana Ashurkova`
 
 
 ### Инструкция по выполнению домашнего задания
@@ -42,7 +42,8 @@
 ```
 
 `При необходимости прикрепитe сюда скриншоты`
-![backup](https://github.com/Svetulkaash/backup9434/blob/main/img/Screenshot%20rsync.png)
+![haproxy tcp cfg](https://github.com/Svetulkaash/haproxy/blob/main/img/Screenshot%20haproxy%20tcp%20conf.png)
+![haproxy tcp](https://github.com/Svetulkaash/haproxy/blob/main/img/screenshot%20haproxy%20tcp.png)
 
 
 ---
@@ -67,8 +68,9 @@
 ```
 
 `При необходимости прикрепитe сюда скриншоты`
-![bash](https://github.com/Svetulkaash/backup9434/blob/main/img/Screenshot%20bash%20script.png)
-![cron](https://github.com/Svetulkaash/backup9434/blob/main/img/Screenshot%20cron.png)
+![haproxy http cfg](https://github.com/Svetulkaash/haproxy/blob/main/img/Screenshot%20haproxy%20http%20conf.png)
+![haproxy http](https://github.com/Svetulkaash/haproxy/blob/main/img/Screenshot%20haproxy%20http.png)
+![haproxy http without domain](https://github.com/Svetulkaash/haproxy/blob/main/img/Screenshot%20without%20domain.png)
 
 ---
 
