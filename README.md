@@ -66,10 +66,9 @@
 ....
 ```
 
-`При необходимости прикрепитe сюда скриншоты
+`При необходимости прикрепитe сюда скриншоты`
 ![bash](https://github.com/Svetulkaash/backup9434/blob/main/img/Screenshot%20bash%20script.png)
-![cron](https://github.com/Svetulkaash/backup9434/blob/main/img/Screenshot%20cron.png)`
-
+![cron](https://github.com/Svetulkaash/backup9434/blob/main/img/Screenshot%20cron.png)
 
 ---
 
